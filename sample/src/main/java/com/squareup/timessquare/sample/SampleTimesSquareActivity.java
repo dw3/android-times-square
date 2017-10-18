@@ -124,7 +124,7 @@ public class SampleTimesSquareActivity extends Activity {
         calendar.setCustomDayView(new DefaultDayViewAdapter());
         Calendar today = Calendar.getInstance();
         ArrayList<Date> dates = new ArrayList<Date>();
-        today.add(Calendar.DATE, 3);
+        today.add(Calendar.DATE, 0);
         dates.add(today.getTime());
         today.add(Calendar.DATE, 5);
         dates.add(today.getTime());

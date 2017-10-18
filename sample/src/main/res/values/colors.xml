@@ -8,4 +8,5 @@
     <color name="custom_text_selected">#FFFFFFFF</color>
     <color name="custom_text_inactive">#7f778088</color>
     <color name="transparent">#00000000</color>
+    <color name="red">#ff0000</color>
 </resources>

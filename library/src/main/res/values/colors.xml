@@ -12,4 +12,7 @@
   <color name="calendar_text_selected">#ffffffff</color>
   <color name="calendar_text_unselectable">#7f778088</color>
   <color name="calendar_text_highlighted">#ff778088</color>
+  <color name="color_clear_def">#f59739</color>
+  <color name="color_clear_click">#80f59739</color>
+  <color name="color_save_def">#3284d6</color>
 </resources>
